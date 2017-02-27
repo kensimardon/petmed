@@ -1,1 +1,1 @@
-This is the readme file for my repo. This repo is for training perpouses for learning Git. I'm really excited for Git
+This is the readme file for my repo. This repo is for training perpouses for learning Git. I'm really excited for Git. this is my sentence for addfonts.
